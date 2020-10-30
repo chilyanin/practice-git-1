@@ -1,1 +1,3 @@
 My first line in project
+London is the capitan of BG
+Moscow is the capital of russia
